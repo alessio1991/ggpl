@@ -1,4 +1,4 @@
-from pyplasm import*
+from pyplasm import *
 from larlib import *
 
 def newStructure(beamSection, pillarSection, distancePillar, height):
@@ -34,4 +34,4 @@ def newStructure(beamSection, pillarSection, distancePillar, height):
     beam=PROD([QUOTE(xBeam),aBeam])
     VIEW(STRUCT([pillar, beam]))
 
-newStructure((.3,.3),(.4,.4),[.5,.5,.5],[3,3,3])
+newStructure((.4,.4),(.4,.4),[4,4,4],[3,3,3])
