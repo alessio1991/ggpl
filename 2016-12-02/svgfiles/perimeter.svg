@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg18115"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="900"
+   height="891.5625"
+   viewBox="0 0 900 891.5625"
+   sodipodi:docname="perimeter.svg">
+  
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="perimetro"
+     style="display:inline">
+    <g
+       id="g18689"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         style="display:inline;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:label="perimetro"
+         id="layer10">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6871-3-2-3"
+           d="m 16.555549,174.36521 c 0,476.00371 0,476.00371 0,476.00371 l 402.336461,0 0,-134.11215 143.55667,0 0,351.33607 285.2244,0 0,-833.006481 -307.89123,0 0,141.667761 z"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2be3cc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="bordo"
+     style="display:inline">
+    <g
+       style="display:inline;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:label="bordo"
+       id="layer4"
+       transform="matrix(0.98408585,0,0,0.97888478,-0.64744853,7.594777)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path13590"
+         d="m 2.2796702,2.2791692 c 0,894.5596608 0,894.5596608 0,894.5596608 l 905.8926598,0 0,-894.5596608 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
