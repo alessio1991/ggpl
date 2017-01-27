@@ -61,8 +61,8 @@ def ggpl_house_modeling(path,colorHouse,texture):
     
     #scale all the model (House LxPxA: 20x20x4 mt), wall 30cm of P, doors are heighted about 2,2mt
     #windows are traslated about 120cm to floor, and are heighted about 110cm
-    dim = [20,20,16]
-    model_house = STRUCT([S([1,2,3])(dim),houseWithTexture])
+    dimHouse = [20,20,16]
+    model_house = STRUCT([S([1,2,3])(dimHouse),houseWithTexture])
     
     house = STRUCT([model_house])
     return house
